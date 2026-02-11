@@ -37,11 +37,11 @@ If eyes are not detected for multiple consecutive frames, the alert sound plays.
 
 ## 📂 Project Structure
 
-├── main.py
-├── haarcascade_frontalface_default.xml
-├── haarcascade_eye.xml
-├── sound.mp3
-└── README.md
+- ├── main.py
+- ├── haarcascade_frontalface_default.xml
+- ├── haarcascade_eye.xml
+- ├── sound.mp3
+- └── README.md
 
 ---
 
